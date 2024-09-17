@@ -9,4 +9,4 @@
 5. R script for GSI simulation using Rubias
 6. R script for testing competing hypotheses about IBD and IBI (Isolation by introduction site/environment)
 
-## Paper submission and public arxiv expected in April 2024
+## Paper submission expected in September 2024
